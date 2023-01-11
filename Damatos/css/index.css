@@ -1,0 +1,32 @@
+h1{
+    background-image: url(/Users/brendanheffernan/Desktop/CODING/Projects/ArtistWebsite/pattern.jpeg);
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color:khaki;
+    text-align: center;
+}
+
+h2{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+#brush{
+    background-color: mediumspringgreen;
+}
+
+#frames{
+    background-color: lightcoral;
+}
+
+#paint{
+    background-color: skyblue;
+}
+
+.price{
+    color: blue;
+    font-weight: bold;
+}
